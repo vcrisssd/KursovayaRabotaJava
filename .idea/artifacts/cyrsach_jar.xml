@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cyrsach:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cyrsach_jar</output-path>
+    <root id="archive" name="cyrsach.jar">
+      <element id="module-output" name="cyrsach" />
+    </root>
+  </artifact>
+</component>
